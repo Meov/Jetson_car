@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/airobot/Desktop/jetson_car/mynteye_demo.cc
+stdio.h
+-
+opencv2/highgui/highgui.hpp
+-
+serialLIB/serial_port.h
+-
+mynteye/api/api.h
+/home/airobot/Desktop/jetson_car/mynteye/api/api.h
+

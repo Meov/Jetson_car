@@ -1,0 +1,7 @@
+/home/airobot/Desktop/test/lib/seriallib/build/CMakeFiles/install/strip.dir
+/home/airobot/Desktop/test/lib/seriallib/build/CMakeFiles/edit_cache.dir
+/home/airobot/Desktop/test/lib/seriallib/build/CMakeFiles/serial_port.dir
+/home/airobot/Desktop/test/lib/seriallib/build/CMakeFiles/list_install_components.dir
+/home/airobot/Desktop/test/lib/seriallib/build/CMakeFiles/install/local.dir
+/home/airobot/Desktop/test/lib/seriallib/build/CMakeFiles/rebuild_cache.dir
+/home/airobot/Desktop/test/lib/seriallib/build/CMakeFiles/install.dir

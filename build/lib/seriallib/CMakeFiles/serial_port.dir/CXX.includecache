@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/airobot/Desktop/jetson_car/lib/seriallib/serial_port.cpp
+serial_port.h
+/home/airobot/Desktop/jetson_car/lib/seriallib/serial_port.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+termios.h
+-
+errno.h
+-
+sys/ioctl.h
+-
+iostream
+-
+
+/home/airobot/Desktop/jetson_car/lib/seriallib/serial_port.h
+
